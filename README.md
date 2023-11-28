@@ -6,6 +6,6 @@ To ensure data analysis, I mastered SQL on the Udemy educational platform and to
 Key skills: Python, PostgreSQL, SQL, Tableau, A/B tests, Statistics, Analysis of business indicators, pandas, NumPy, matplotlib, seaborn, plotly, SciPy, sklearn, MS Excel, MS PowerPoint.
 
 📫 Connect with me:  
-https://t.me/Ayza_Oyun  
-https://www.instagram.com/aaaaayza/  
-https://twitter.com/Ayza75062692
+<a href='https://t.me/Ayza_Oyun'> Telegram </a>   
+<a href='https://www.instagram.com/aaaaayza/'> Instagram </a>   
+<a href='https://twitter.com/Ayza75062692'> Twitter </a>   
