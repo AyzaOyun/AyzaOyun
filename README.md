@@ -9,3 +9,4 @@ Key skills: Python, PostgreSQL, SQL, Tableau, A/B tests, Statistics, Analysis of
 <a href='https://t.me/Ayza_Oyun'> Telegram </a>   
 <a href='https://www.instagram.com/aaaaayza/'> Instagram </a>   
 <a href='https://twitter.com/Ayza75062692'> Twitter </a>   
+<a href='https://www.linkedin.com/in/aiza-oiun-44934b2a3/'> Linkedin </a> 
