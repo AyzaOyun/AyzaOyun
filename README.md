@@ -4,7 +4,7 @@ With 7 years of experience in the civil service, I worked on the analysis of reg
 
 To strengthen my data skills, I studied SQL on Udemy and completed data analysis courses at Yandex Workshop. I’m also pursuing a Master’s degree at ITMO University, majoring in Infocommunication Technologies and Communication Systems — the Cloud DevOps Engineer track.
 
-Key skills: Python, SQL, Tableau, MS Excel, A/B testing, statistics, business metrics analysis.
+Key skills: Python, SQL, Tableau, MS Excel, statistics, business metrics analysis.
 
 📫 Connect with me:  
 <a href='https://t.me/aaaaayza'> Telegram </a>   
