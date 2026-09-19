@@ -1,8 +1,8 @@
-👋 Hi there!  
-My name is Aiza Oiun.
-With 7 years of experience in the civil service, I worked on the analysis of regional economic sectors (tourism, entrepreneurship, foreign economic activity), project management, and business acceleration. Since October 2024, I have been working as a data analyst in the alcohol industry, focusing on developing and automating reports, maintaining internal databases, and delivering ad-hoc analytics.
-
-To strengthen my data skills, I studied SQL on Udemy and completed data analysis courses at Yandex Workshop. I’m also pursuing a Master’s degree at ITMO University, majoring in Infocommunication Technologies and Communication Systems — the Cloud DevOps Engineer track.
+👋 Hi there!
+My name is Aiza Oiun. I'm a data analyst with experience in developing and automating reports, maintaining databases, and delivering ad-hoc analytics.
+Since June 2026, I've been working as a data analyst at the Moscow Department of Information Technologies (Mosgortelecom), focusing on preprocessing large volumes of data in Parquet format, writing SQL queries, and building dashboards.
+From October 2024 to June 2026, I worked as a data analyst in the alcohol industry, where I automated reporting and database updates and developed a monitoring bot.
+I'm currently pursuing a Master's degree at ITMO University, majoring in Infocommunication Technologies and Communication Systems — Cloud DevOps Engineer track.
 
 Key skills: Python, SQL, Tableau, MS Excel, statistics, business metrics analysis.
 
